@@ -9,6 +9,7 @@ enum Platform {
     Android,
     Common,
     FreeBsd,
+    Linux,
     NetBsd,
     OpenBsd,
     Osx,
